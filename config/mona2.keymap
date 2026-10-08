@@ -33,6 +33,11 @@
             bindings = <&kp TAB>;
             key-positions = <11 12>;
         };
+
+        EJ {
+            bindings = <&none>;
+            key-positions = <10 11>;
+        };
     };
 
     macros {
